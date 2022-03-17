@@ -14,7 +14,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coding.
   
-- ❓ More about me!
+<br>
+  
+  ❓ More about me!
   
   <br>
   
