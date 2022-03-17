@@ -1,9 +1,9 @@
+<div align="center">
+
 # Hi there 👋
 
 <!--
-**EggOfGlory999/EggOfGlory999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**EggOfGlory999/EggOfGlory999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 - 🔭 I’m currently working on Coding
 - 🌱 I’m currently learning how to make a chess engine
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:jackson.newman999@gmail.com" target="_blank">My email</a href>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coding.
--->
+
+</div>
