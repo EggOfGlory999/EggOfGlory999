@@ -15,6 +15,9 @@
 - ⚡ Fun fact: I like coding.
   
 - ❓ More about me!
+  
+  <br>
+  
  I like to code with HTML, CSS, and although I can code with Python, I'm not really the best at coding with Python, but then again, I'm still learning Python.
  I do hope to make a simple 16-bit OS soemday using C++, and other programming languages, and I hope that can happen one day.
  You can follow me for updates on my repositories, and star my repositories.
