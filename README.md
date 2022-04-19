@@ -24,10 +24,14 @@
   
   <br>
   
- I like to code with HTML, CSS, and I can (somewhat) code with C# and XML.
- Then again, I'm still learning Python, if that isn't obvious enough as is.
+   <b><i>I like to code with HTML, CSS, and I can (somewhat) code with C# and XML.
+  <br>
+ Then again, I'm still learning C# and XML, if that isn't obvious enough as is.
+  <br>
  I do hope to make a simple 16-bit OS soemday using C++, and other programming languages, and I hope that can happen one day.
+  <br>
  You can follow me for updates on my repositories, and star my repositories.
- Have a good day! :)
+  <br>
+   Have a good day! :)</i></b>
 
 </div>
