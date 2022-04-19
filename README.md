@@ -24,7 +24,7 @@
   
   <br>
   
- I like to code with HTML, CSS, and although I can code with Python, I'm not really the best at coding with Python.
+ I like to code with HTML, CSS, and I can (somewhat) code with C# and XML.
  Then again, I'm still learning Python, if that isn't obvious enough as is.
  I do hope to make a simple 16-bit OS soemday using C++, and other programming languages, and I hope that can happen one day.
  You can follow me for updates on my repositories, and star my repositories.
